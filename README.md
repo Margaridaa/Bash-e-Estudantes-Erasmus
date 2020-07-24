@@ -8,7 +8,7 @@ A aplicação deve permitir a gestão e criação de relatórios de várias info
 ## Organização da Aplicação
 A organização da Aplicação faz-se recorrendo a diretorias, cada uma com o seu tipo de informação:
 
-• **Auxiliar** - contém Scripts auxiliares. Por exemplo, o Script `printidname.sh` serve apenas para impressão da *PrimaryKey* e do nome de qualquer objeto. (Ver Menu Visualizar).
+• **Auxiliar** - contém Scripts auxiliares. Por exemplo, o Script `printidname.sh` serve apenas para impressão da *PrimaryKey* e do nome de qualquer objeto.
 
 • **Backups** - diretoria que contém o ficheiro `Backups.txt`, no qual estão registadas todas as cópias de segurança disponíveis para restauro e as próprias cópias de segurança em ficheiros do tipo `.tar.gz`;
 
