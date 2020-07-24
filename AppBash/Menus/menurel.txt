@@ -1,0 +1,6 @@
+Relatórios:
+1 - Número médio de disciplinas por aluno
+2 - Número de alunos por universidade
+3 - Número de alunos inscritos por ano/semestre
+4 - Disciplinas com alunos Inscritos
+0 - Sair para o menu principal

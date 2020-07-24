@@ -1,0 +1,6 @@
+11561:Sistemas Operativos:2:2;1
+12345:Teoria da Computação:2:2;1
+13205:Programação I:1:1;2
+54321:Lógica Computacional:2:1;4
+11558:Redes de Computadores:1:1;2;4
+13256:Matemática I:1:1

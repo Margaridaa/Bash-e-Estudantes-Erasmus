@@ -1,0 +1,6 @@
+Registo
+1 - Universidade
+2 - Professor
+3 - Estudante
+4 - Disciplina
+0 - Sair para o menu principal

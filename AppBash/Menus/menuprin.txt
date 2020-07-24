@@ -1,0 +1,7 @@
+Menu Principal
+1 - Registo/Editar
+2 - Alterar Dados
+3 - Visualizar Dados
+4 - Relatórios
+5 - Gestão do(s) ficheiro(s) de Base de Dados
+0 - Sair do programa

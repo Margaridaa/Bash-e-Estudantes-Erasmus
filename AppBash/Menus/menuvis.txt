@@ -1,0 +1,6 @@
+Visualizar
+1 - Universidades
+2 - Professores
+3 - Estudantes
+4 - Disciplinas
+0 - Sair para o menu principal
